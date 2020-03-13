@@ -13,6 +13,9 @@
 - O que é HTTP?
   - [Artigo] [Entenda o que é HTTP](https://rockcontent.com/blog/http/) - Rockcontent - Free - 🇧🇷
   
-- Navegadores a como eles funciona?
+- Navegadores, como eles funciona?
   - [Video] [Como funcionam os navegadores web](https://hipsters.tech/como-funcionam-os-navegadores-web/) - Hipsters - Free - 🇧🇷
+  
+- DNS, como eles funciona?
+  - [Video] [DNS - Domain Name System](https://www.youtube.com/watch?v=i4KMcl0tuEg) - Paulo Kretcheu - Free - 🇧🇷
    
