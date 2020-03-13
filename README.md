@@ -5,6 +5,8 @@
 
 ### Internet
 
+![](./internet.png)
+
 - Como a internet funciona?
   - [Artigo] [Como a internet funciona](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona) - MDN - free - 🇧🇷  
   
