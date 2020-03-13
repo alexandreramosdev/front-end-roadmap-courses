@@ -14,5 +14,5 @@
   - [Artigo] [Entenda o que é HTTP](https://rockcontent.com/blog/http/) - Rockcontent - Free - 🇧🇷
   
 - Navegadores a como eles funciona?
-  - [Video] [como funcionam os navegadores web](https://hipsters.tech/como-funcionam-os-navegadores-web/) - Hipsters - Free - 🇧🇷
+  - [Video] [Como funcionam os navegadores web](https://hipsters.tech/como-funcionam-os-navegadores-web/) - Hipsters - Free - 🇧🇷
    
