@@ -18,4 +18,7 @@
   
 - DNS, como eles funciona?
   - [Video] [DNS - Domain Name System](https://www.youtube.com/watch?v=i4KMcl0tuEg) - Paulo Kretcheu - Free - 🇧🇷
+  
+- O que é um nome de dominio?
+  - [Artigo] [O que é um nome de dominio](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/What_is_a_domain_na) - MDN - Free - 🇧🇷
    
