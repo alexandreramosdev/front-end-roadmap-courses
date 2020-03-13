@@ -1,6 +1,6 @@
 # Front-end Roadmap Cursos
 
-> Uma lista com curadoria de cursos de front-end seguindo o [roadmap.sh](https://roadmap.sh/frontend) 
+> Uma lista com curadoria de cursos de front-end seguindo o [roadmap.sh](./frontend.png) 
 ---
 
 ### Internet
