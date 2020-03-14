@@ -8,7 +8,7 @@
 ![](./internet.png)
 
 - Como a internet funciona?
-  - [Artigo] [Como a internet funciona](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona) - MDN - free - 🇧🇷  
+  - [Artigo] [Como a internet funciona](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona) - MDN - Free - 🇧🇷  
   
 - O que é HTTP?
   - [Artigo] [Entenda o que é HTTP](https://rockcontent.com/blog/http/) - Rockcontent - Free - 🇧🇷
@@ -25,4 +25,7 @@
 ### Html
 
 ![](./html.png)
+
+- Aprenda o basico?
+  - [Curso] [Introdução à Linguagem HTML](https://www.udemy.com/course/introducao-a-linguagem-html/) - Udemy - Free - 🇧🇷  
    
